@@ -1,6 +1,3 @@
 # apnacollege-demo
 this is my first git repository.
-Author - Priyam Das.
-<br><b>
-Hello World</b>
- 
+<br>Author - Priyam Das.
